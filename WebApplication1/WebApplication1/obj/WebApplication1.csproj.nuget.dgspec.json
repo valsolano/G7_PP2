@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\PracticaProgramada2_Grupo7\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\alede\\OneDrive - Universidad Fidélitas\\Tercer_Cuatri_2024\\Progra_Avanzada\\Practica_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\PracticaProgramada2_Grupo7\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\alede\\OneDrive - Universidad Fidélitas\\Tercer_Cuatri_2024\\Progra_Avanzada\\Practica_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\PracticaProgramada2_Grupo7\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\alede\\OneDrive - Universidad Fidélitas\\Tercer_Cuatri_2024\\Progra_Avanzada\\Practica_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\PracticaProgramada2_Grupo7\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\PracticaProgramada2_Grupo7\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\alede\\OneDrive - Universidad Fidélitas\\Tercer_Cuatri_2024\\Progra_Avanzada\\Practica_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\alede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alede\\OneDrive - Universidad Fidélitas\\Tercer_Cuatri_2024\\Progra_Avanzada\\Practica_2\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,9 +46,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[6.9.0, )"
             }
           },
           "imports": [
@@ -70,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

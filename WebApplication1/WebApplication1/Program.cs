@@ -1,4 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using WebApplication1.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+//Agrega conexion al server de BD
+var connectionString = builder.Configuration.GetConnectionString("connData");
+
+//Agregar al servicio
+builder.Services.AddDbContext<ConnectionDbContext>(
+    options =>
+        options.UseMySql(connectionString, new MySqlServerVersion(new Version (8, 0, 21))
+    ));
+
 
 // Add services to the container.
 
