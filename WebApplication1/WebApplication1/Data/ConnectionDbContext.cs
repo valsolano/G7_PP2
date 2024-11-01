@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using WebApplication1.Models;
 
 namespace WebApplication1.Data
 {
@@ -7,6 +8,13 @@ namespace WebApplication1.Data
     {
         public ConnectionDbContext(DbContextOptions<ConnectionDbContext> options) : base(options) { 
             
+        }
+
+        public DbSet<CancionModel> Cancion_G7 { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<CancionModel>().ToTable("Cancion_G7");
         }
         
     }
