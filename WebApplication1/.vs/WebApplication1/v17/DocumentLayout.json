@@ -1,12 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\PracticaProgramada2_Grupo7\\WebApplication1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|c:\\users\\josea\\source\\repos\\g7_pp2\\webapplication1\\webapplication1\\controllers\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|c:\\users\\josea\\source\\repos\\g7_pp2\\webapplication1\\webapplication1\\data\\connectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\connectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|c:\\users\\josea\\source\\repos\\g7_pp2\\webapplication1\\webapplication1\\models\\cantantemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cantantemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|c:\\users\\josea\\source\\repos\\g7_pp2\\webapplication1\\webapplication1\\controllers\\cancioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\cancioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|c:\\users\\josea\\source\\repos\\g7_pp2\\webapplication1\\webapplication1\\models\\listamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\listamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|c:\\users\\josea\\source\\repos\\g7_pp2\\webapplication1\\webapplication1\\models\\cancionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB3A7A7-83EF-4D05-9608-9F06D783B80B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cancionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Data\\ConnectionDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ConnectionDbContext.cs",
+              "ToolTip": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Data\\ConnectionDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ConnectionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:29:19.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CantanteModel.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Models\\CantanteModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CantanteModel.cs",
+              "ToolTip": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Models\\CantanteModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CantanteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:21:26.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaModel.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Models\\ListaModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ListaModel.cs",
+              "ToolTip": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Models\\ListaModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ListaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:08:22.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CancionModel.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Models\\CancionModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CancionModel.cs",
+              "ToolTip": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Models\\CancionModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CancionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:02:10.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaController.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Controllers\\ListaController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ListaController.cs",
+              "ToolTip": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Controllers\\ListaController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ListaController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwGgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:19:38.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CancionController.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Controllers\\CancionController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CancionController.cs",
+              "ToolTip": "C:\\Users\\josea\\source\\repos\\G7_PP2\\WebApplication1\\WebApplication1\\Controllers\\CancionController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CancionController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:54:06.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
